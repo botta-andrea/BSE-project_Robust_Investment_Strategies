@@ -1,8 +1,6 @@
 # Constructing Robust Investment Strategies: Regularization Techniques and CVaR Optimization
 BSE Summer School - Advanced Portfolio Management: Technical Project
 
-# Constructing Robust Investment Strategies: Regularization Techniques and CVaR Optimization
-
 This repository contains the code and analysis for a quantitative portfolio management project focused on constructing optimal long-term investment strategies for a private wealth client. 
 
 ## Overview
