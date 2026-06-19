@@ -13,7 +13,6 @@ The project explores different asset allocation frameworks utilizing a universe 
 
 ## Repository Structure
 * `AndreaBotta_Evaluation.ipynb`: The main Jupyter Notebook containing all the data downloading, exploratory data analysis, optimization algorithms, and output visualizations.
-* `Project_Report.pdf`: A clean, code-free technical report summarizing the findings, correlation matrices, and efficient frontiers.
 
 ## Data Source
 Historical financial data (monthly returns over an 18-year period) is downloaded dynamically via the `yfinance` API.
